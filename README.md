@@ -1,0 +1,1 @@
+# jvandort-spike-java-software-component
